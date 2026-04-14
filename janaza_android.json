@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titre": "1. التكبيرة الأولى والفاتحة (Le 1er Takbir et la Fatiha)",
+    "description": "La prière mortuaire se fait entièrement debout, sans inclinaison ni prosternation. L'intention se fait dans le cœur. On lève les mains, on prononce le 1er Takbir, on cherche refuge auprès d'Allah, puis on récite la Fatiha silencieusement.",
+    "arabe": "اللَّهُ أَكْبَرُ\n\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ...",
+    "phonetique": "Allahu Akbar\n\nBismillāhi r-raḥmāni r-raḥīm. Al-ḥamdu lillāhi rabbi l-ʿālamīn...",
+    "francais": "Allah est le plus grand.\n\nAu nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux. Louange à Allah... (Récitation de la Fatiha complète)",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 2,
+    "titre": "2. التكبيرة الثانية والصلاة الإبراهيمية (Le 2ème Takbir)",
+    "description": "On prononce le 2ème Takbir (il est recommandé de lever les mains), puis on récite la prière Ibrahimiya, exactement comme lors du dernier Tashahhud d'une prière normale.",
+    "arabe": "اللَّهُ أَكْبَرُ\n\nاللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ...",
+    "phonetique": "Allahu Akbar\n\nAllâhumma salli 'alâ Muhammadin wa 'alâ âli Muhammadin, kamâ sallayta 'alâ Ibrâhîma...",
+    "francais": "Allah est le plus grand.\n\nÔ Allah, prie sur Muhammad et sur la famille de Muhammad comme Tu as prié sur Ibrahim...",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 3,
+    "titre": "3. التكبيرة الثالثة والدعاء للميت (Le 3ème Takbir)",
+    "description": "On prononce le 3ème Takbir, puis on invoque sincèrement pour le défunt. Voici l'invocation prophétique la plus connue :",
+    "arabe": "اللَّهُ أَكْبَرُ\n\nاللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعَافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ",
+    "phonetique": "Allahu Akbar\n\nAllâhumma ghfir lahu warhamhu, wa 'âfihi, wa'fu 'anhu, wa akrim nuzulahu, wa wassi' mudkhalahu, waghsilhu bil-mâ'i wath-thalji wal-baradi, wa naqqihi minal-khatâyâ kamâ naqqaytath-thawbal-abyada minad-danasi.",
+    "francais": "Allah est le plus grand.\n\nÔ Allah, pardonne-lui et fais-lui miséricorde, accorde-lui le salut et pardonne-lui ses fautes, accorde-lui une noble demeure et élargis sa tombe, lave-le avec l'eau, la neige et la grêle, et purifie-le de ses péchés comme Tu purifies le vêtement blanc de la saleté.",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 4,
+    "titre": "4. التكبيرة الرابعة والتسليم (Le 4ème Takbir et le Salut)",
+    "description": "On prononce le 4ème Takbir. On peut faire une courte invocation pour soi-même et pour tous les musulmans, ou rester silencieux un instant. Ensuite, on termine la prière en faisant les salutations (la Sunnah permet de le faire une seule fois vers la droite).",
+    "arabe": "اللَّهُ أَكْبَرُ\n\nاللَّهُمَّ لاَ تَحْرِمْنَا أَجْرَهُ، وَلاَ تُضِلَّنَا بَعْدَهُ\n\nالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+    "phonetique": "Allahu Akbar\n\nAllâhumma lâ tahrimnâ ajrahu, wa lâ tudillanâ ba'dahu.\n\nAs-salâmu 'alaykum wa rahmatu l-lâh.",
+    "francais": "Allah est le plus grand.\n\nÔ Allah, ne nous prive pas de sa récompense et ne nous égare pas après lui.\n\nQue la paix et la miséricorde d'Allah soient sur vous.",
+    "image": "",
+    "lien_externe": ""
+  }
+]
