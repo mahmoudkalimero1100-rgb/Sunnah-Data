@@ -2,20 +2,20 @@
   {
     "id": 1,
     "titre": "1. التكبيرة الأولى والفاتحة (Le 1er Takbir et la Fatiha)",
-    "description": "La prière mortuaire se fait entièrement debout, sans inclinaison ni prosternation. L'intention se fait dans le cœur. On lève les mains, on prononce le 1er Takbir, on cherche refuge auprès d'Allah, puis on récite la Fatiha silencieusement.",
-    "arabe": "اللَّهُ أَكْبَرُ\n\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ...",
-    "phonetique": "Allahu Akbar\n\nBismillāhi r-raḥmāni r-raḥīm. Al-ḥamdu lillāhi rabbi l-ʿālamīn...",
-    "francais": "Allah est le plus grand.\n\nAu nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux. Louange à Allah... (Récitation de la Fatiha complète)",
+    "description": "La prière mortuaire se fait entièrement debout, sans inclinaison ni prosternation. L'intention se fait dans le cœur. On lève les mains, on prononce le 1er Takbir, on cherche refuge auprès d'Allah, puis on récite la Fatiha entièrement et silencieusement.",
+    "arabe": "اللَّهُ أَكْبَرُ\n\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ۝ الرَّحْمَٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "phonetique": "Allahu Akbar\n\nBismillāhi r-raḥmāni r-raḥīm. Al-ḥamdu lillāhi rabbi l-ʿālamīn. Ar-raḥmāni r-raḥīm. Māliki yawmi d-dīn. Iyyāka naʿbudu wa-iyyāka nastaʿīn. Ihdinā ṣ-ṣirāṭa l-mustaqīm. Ṣirāṭa l-laḏīna anʿamta ʿalayhim ġayri l-maġḍūbi ʿalayhim walā ḍ-ḍāllīn.",
+    "francais": "Allah est le plus grand.\n\nAu nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux. Louange à Allah, Seigneur de l'univers. Le Tout Miséricordieux, le Très Miséricordieux. Maître du Jour de la rétribution. C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons secours. Guide-nous dans le droit chemin. Le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.",
     "image": "",
     "lien_externe": ""
   },
   {
     "id": 2,
     "titre": "2. التكبيرة الثانية والصلاة الإبراهيمية (Le 2ème Takbir)",
-    "description": "On prononce le 2ème Takbir (il est recommandé de lever les mains), puis on récite la prière Ibrahimiya, exactement comme lors du dernier Tashahhud d'une prière normale.",
-    "arabe": "اللَّهُ أَكْبَرُ\n\nاللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ...",
-    "phonetique": "Allahu Akbar\n\nAllâhumma salli 'alâ Muhammadin wa 'alâ âli Muhammadin, kamâ sallayta 'alâ Ibrâhîma...",
-    "francais": "Allah est le plus grand.\n\nÔ Allah, prie sur Muhammad et sur la famille de Muhammad comme Tu as prié sur Ibrahim...",
+    "description": "On prononce le 2ème Takbir (il est recommandé de lever les mains), puis on récite la prière Ibrahimiya en entier, exactement comme lors du dernier Tashahhud d'une prière normale.",
+    "arabe": "اللَّهُ أَكْبَرُ\n\nاللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "phonetique": "Allahu Akbar\n\nAllâhumma salli 'alâ Muhammadin wa 'alâ âli Muhammadin, kamâ sallayta 'alâ Ibrâhîma wa 'alâ âli Ibrâhîma, innaka Hamîdun Majîd. Allâhumma bârik 'alâ Muhammadin wa 'alâ âli Muhammadin, kamâ bârakta 'alâ Ibrâhîma wa 'alâ âli Ibrâhîma, innaka Hamîdun Majîd.",
+    "francais": "Allah est le plus grand.\n\nÔ Allah, prie sur Muhammad et sur la famille de Muhammad comme Tu as prié sur Ibrahim et sur la famille d'Ibrahim, Tu es certes Digne de louange et de gloire. Ô Allah, bénis Muhammad et la famille de Muhammad comme Tu as béni Ibrahim et la famille d'Ibrahim, Tu es certes Digne de louange et de gloire.",
     "image": "",
     "lien_externe": ""
   },
@@ -32,10 +32,10 @@
   {
     "id": 4,
     "titre": "4. التكبيرة الرابعة والتسليم (Le 4ème Takbir et le Salut)",
-    "description": "On prononce le 4ème Takbir. On peut faire une courte invocation pour soi-même et pour tous les musulmans, ou rester silencieux un instant. Ensuite, on termine la prière en faisant les salutations (la Sunnah permet de le faire une seule fois vers la droite).",
+    "description": "On prononce le 4ème Takbir. On peut faire une courte invocation pour soi-même et pour tous les musulmans, ou rester silencieux un instant. Ensuite, on termine la prière en faisant un SEUL ET UNIQUE salut (Taslim) en tournant la tête vers la droite.",
     "arabe": "اللَّهُ أَكْبَرُ\n\nاللَّهُمَّ لاَ تَحْرِمْنَا أَجْرَهُ، وَلاَ تُضِلَّنَا بَعْدَهُ\n\nالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
     "phonetique": "Allahu Akbar\n\nAllâhumma lâ tahrimnâ ajrahu, wa lâ tudillanâ ba'dahu.\n\nAs-salâmu 'alaykum wa rahmatu l-lâh.",
-    "francais": "Allah est le plus grand.\n\nÔ Allah, ne nous prive pas de sa récompense et ne nous égare pas après lui.\n\nQue la paix et la miséricorde d'Allah soient sur vous.",
+    "francais": "Allah est le plus grand.\n\nÔ Allah, ne nous prive pas de sa récompense et ne nous égare pas après lui.\n\nQue la paix et la miséricorde d'Allah soient sur vous (en tournant la tête une seule fois vers la droite).",
     "image": "",
     "lien_externe": ""
   }
