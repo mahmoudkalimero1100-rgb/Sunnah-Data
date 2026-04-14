@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "titre": "L'Orientation et l'Intention",
-    "description": "Se diriger vers la Qiblah (La Mecque) avec tout son corps. L'intention (An-Niyyah) doit être présente dans le cœur de manière ferme. Il s'agit d'une innovation (Bid'ah) de la prononcer à voix haute.",
+    "titre": "1. الاستقبال والنية (L'Orientation et l'Intention)",
+    "description": "Se diriger vers la Qiblah (La Mecque) avec tout son corps. L'intention (An-Niyyah) de prier telle ou telle prière doit être présente dans le cœur. Il s'agit d'une innovation (Bid'ah) de la prononcer à voix haute.",
     "arabe": "الاستقبال والنية",
     "phonetique": "",
     "francais": "",
@@ -11,7 +11,17 @@
   },
   {
     "id": 2,
-    "titre": "Le Takbir de sacralisation",
+    "titre": "2. عدد الركعات (Le nombre de Rakaat)",
+    "description": "Une prière est composée de plusieurs cycles appelés 'Rakaat'. Chaque prière obligatoire a un nombre fixe :\n• Fajr : 2 Rakaat\n• Dhuhr : 4 Rakaat\n• 'Asr : 4 Rakaat\n• Maghrib : 3 Rakaat\n• 'Isha : 4 Rakaat",
+    "arabe": "",
+    "phonetique": "",
+    "francais": "",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 3,
+    "titre": "3. تكبيرة الإحرام (Le Takbir de sacralisation)",
     "description": "Lever les mains au niveau des épaules ou des lobes des oreilles, et prononcer le Takbir pour entrer dans la prière. Regarder vers le lieu de sa prosternation.",
     "arabe": "اللَّهُ أَكْبَرُ",
     "phonetique": "Allahu Akbar",
@@ -20,29 +30,29 @@
     "lien_externe": ""
   },
   {
-    "id": 3,
-    "titre": "L'Invocation d'ouverture",
+    "id": 4,
+    "titre": "4. دعاء الاستفتاح (L'Invocation d'ouverture)",
     "description": "Placer la main droite sur la main gauche, sur la poitrine. Il est de la Sunnah de réciter silencieusement l'invocation d'ouverture (Du'a Al-Istiftah) avant de commencer le Coran.",
     "arabe": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ إِلَهَ غَيْرُكَ",
     "phonetique": "Subhânaka l-lâhumma wa bi-hamdika, wa tabâraka smuka, wa ta'âlâ jadduka, wa lâ ilâha ghayruka",
-    "francais": "Gloire et pureté à Toi, ô Allah, et à Toi la louange. Que Ton Nom soit béni et Ta Majesté soit exaltée, et il n'y a pas d'autre divinité digne d'être adorée en dehors de Toi.",
-    "image": "",
-    "lien_externe": ""
-  },
-  {
-    "id": 4,
-    "titre": "La Fatiha (Pilier de la prière)",
-    "description": "Chercher refuge auprès d'Allah contre Shaytan (à voix basse), dire Bismillah, puis réciter la sourate Al-Fatiha. C'est un pilier : sans elle, la prière est invalide.",
-    "arabe": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ...",
-    "phonetique": "A'udhu billahi mina sh-shaytani r-rajim.\nBismillahi r-rahmani r-rahim.\nAlhamdu lillahi rabbi l-'alamin...",
-    "francais": "Je cherche refuge auprès d'Allah contre Satan le lapidé.\nAu nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux.\nLouange à Allah, Seigneur de l'univers...",
+    "francais": "Gloire et pureté à Toi, ô Allah... et il n'y a pas d'autre divinité digne d'être adorée en dehors de Toi.",
     "image": "",
     "lien_externe": ""
   },
   {
     "id": 5,
-    "titre": "La Récitation après la Fatiha",
-    "description": "Lors des deux premières Rakaat (unités de prière), il est de la Sunnah de réciter une autre sourate ou quelques versets après la Fatiha. Exemple avec la sourate Al-Ikhlas :",
+    "titre": "5. الفاتحة (La Fatiha - Pilier de la prière)",
+    "description": "Chercher refuge auprès d'Allah contre Shaytan (à voix basse), puis réciter la Fatiha entièrement. C'est un pilier : sans elle, la prière est invalide.",
+    "arabe": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+    "phonetique": "Bismillāhi r-raḥmāni r-raḥīm (1). Al-ḥamdu lillāhi rabbi l-ʿālamīn (2). Ar-raḥmāni r-raḥīm (3). Māliki yawmi d-dīn (4). Iyyāka naʿbudu wa-iyyāka nastaʿīn (5). Ihdinā ṣ-ṣirāṭa l-mustaqīm (6). Ṣirāṭa l-laḏīna anʿamta ʿalayhim ġayri l-maġḍūbi ʿalayhim walā ḍ-ḍāllīn (7).",
+    "francais": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux (1). Louange à Allah, Seigneur de l'univers (2). Le Tout Miséricordieux, le Très Miséricordieux (3). Maître du Jour de la rétribution (4). C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons secours (5). Guide-nous dans le droit chemin (6). Le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés (7).",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 6,
+    "titre": "6. القراءة بعد الفاتحة (La Récitation)",
+    "description": "Dans les DEUX PREMIÈRES Rakaat seulement, il est de la Sunnah de réciter une autre sourate DE TON CHOIX après Al-Fatiha. À partir de la 3ème Rakah, on ne récite que la Fatiha. Exemple avec Al-Ikhlas :",
     "arabe": "قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
     "phonetique": "Qul huwa allahu ahad. Allahu s-samad. Lam yalid wa lam yulad. Wa lam yakun lahu kufuwan ahad.",
     "francais": "Dis : Il est Allah, Unique. Allah, Le Seul à être imploré pour ce que nous désirons. Il n'a jamais engendré, n'a pas été engendré non plus. Et nul n'est égal à Lui.",
@@ -50,18 +60,18 @@
     "lien_externe": ""
   },
   {
-    "id": 6,
-    "titre": "L'Inclinaison (Ar-Ruku')",
-    "description": "Lever les mains, dire Allahu Akbar, et s'incliner en gardant le dos bien droit. Poser les mains sur les genoux en écartant les doigts. Répéter cette invocation 3 fois (ou plus) :",
-    "arabe": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
-    "phonetique": "Subhâna Rabbiya l-'Azhîm",
+    "id": 7,
+    "titre": "7. الركوع (L'Inclinaison)",
+    "description": "Lever les mains, dire Allahu Akbar, et s'incliner en gardant le dos bien droit. Poser les mains sur les genoux en écartant les doigts. Répéter cette invocation 3 fois :",
+    "arabe": "سُبْحَانَ رَبِّيَ الْعَظِيمِ (٣ مرات)",
+    "phonetique": "Subhâna Rabbiya l-'Azhîm (x3)",
     "francais": "Gloire et pureté à mon Seigneur le Très Grand.",
     "image": "",
     "lien_externe": ""
   },
   {
-    "id": 7,
-    "titre": "Le redressement de l'inclinaison",
+    "id": 8,
+    "titre": "8. الرفع من الركوع (Le redressement)",
     "description": "Se redresser en levant les mains. Pendant qu'on se redresse, l'imam ou celui qui prie seul dit la première phrase. Une fois debout et bien droit, on dit la deuxième :",
     "arabe": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ\nرَبَّنَا وَلَكَ الْحَمْدُ",
     "phonetique": "Sami'a l-lâhu liman hamidah.\nRabbanâ wa laka l-hamd.",
@@ -70,18 +80,18 @@
     "lien_externe": ""
   },
   {
-    "id": 8,
-    "titre": "La Prosternation (As-Sujud)",
+    "id": 9,
+    "titre": "9. السجود (La Prosternation)",
     "description": "Dire Allahu Akbar et se prosterner sur 7 membres : le front avec le nez, les deux mains, les deux genoux, et la pointe des deux pieds. Répéter cette invocation 3 fois :",
-    "arabe": "سُبْحَانَ رَبِّيَ الأَعْلَى",
-    "phonetique": "Subhâna Rabbiya l-A'lâ",
+    "arabe": "سُبْحَانَ رَبِّيَ الأَعْلَى (٣ مرات)",
+    "phonetique": "Subhâna Rabbiya l-A'lâ (x3)",
     "francais": "Gloire et pureté à mon Seigneur le Très Haut.",
     "image": "",
     "lien_externe": ""
   },
   {
-    "id": 9,
-    "titre": "L'assise entre les deux prosternations",
+    "id": 10,
+    "titre": "10. الجلوس بين السجدتين (L'assise)",
     "description": "Se relever en disant Allahu Akbar. S'asseoir sur le pied gauche et dresser le pied droit. Dire tranquillement :",
     "arabe": "رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي",
     "phonetique": "Rabbi ghfir lî, Rabbi ghfir lî",
@@ -90,38 +100,48 @@
     "lien_externe": ""
   },
   {
-    "id": 10,
-    "titre": "Le premier Tashahhud",
-    "description": "Après la deuxième Rakah, s'asseoir pour le Tashahhud. Pointer l'index droit et le bouger légèrement en récitant :",
-    "arabe": "التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ. أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
-    "phonetique": "At-tahiyyâtu lillâhi, wa s-salawâtu wa t-tayyibâtu. As-salâmu 'alayka ayyuhâ n-nabiyyu wa rahmatu l-lâhi wa barakâtuh. As-salâmu 'alaynâ wa 'alâ 'ibâdi l-lâhi s-sâlihîn. Ash-hadu an lâ ilâha illâ l-lâhu, wa ash-hadu anna Muhammadan 'abduhu wa rasûluh.",
-    "francais": "Les salutations sont pour Allah, ainsi que les prières et les bonnes œuvres. Que le salut soit sur toi, ô Prophète, ainsi que la miséricorde d'Allah et Ses bénédictions. Que le salut soit sur nous et sur les serviteurs vertueux d'Allah. Je témoigne qu'il n'y a de divinité digne d'adoration qu'Allah, et je témoigne que Muhammad est Son serviteur et Son messager.",
-    "image": "",
-    "lien_externe": ""
-  },
-  {
     "id": 11,
-    "titre": "La Prière Ibrahimiya (Dernier Tashahhud)",
-    "description": "Lors de la toute dernière assise de la prière, on ajoute la prière sur le Prophète (Salawat) après le Tashahhud :",
-    "arabe": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
-    "phonetique": "Allâhumma salli 'alâ Muhammadin wa 'alâ âli Muhammadin, kamâ sallayta 'alâ Ibrâhîma wa 'alâ âli Ibrâhîma, innaka Hamîdun Majîd. Allâhumma bârik 'alâ Muhammadin wa 'alâ âli Muhammadin, kamâ bârakta 'alâ Ibrâhîma wa 'alâ âli Ibrâhîma, innaka Hamîdun Majîd.",
-    "francais": "Ô Allah, prie sur Muhammad et sur la famille de Muhammad comme Tu as prié sur Ibrahim et sur la famille d'Ibrahim, Tu es certes Digne de louange et de gloire. Ô Allah, bénis Muhammad et la famille de Muhammad comme Tu as béni Ibrahim et la famille d'Ibrahim, Tu es certes Digne de louange et de gloire.",
+    "titre": "11. السجدة الثانية (La deuxième Prosternation)",
+    "description": "Dire de nouveau Allahu Akbar et faire une deuxième prosternation identique à la première. Cela termine une Rakah complète. On se relève ensuite pour recommencer une Rakah.",
+    "arabe": "سُبْحَانَ رَبِّيَ الأَعْلَى (٣ مرات)",
+    "phonetique": "Subhâna Rabbiya l-A'lâ (x3)",
+    "francais": "Gloire et pureté à mon Seigneur le Très Haut.",
     "image": "",
     "lien_externe": ""
   },
   {
     "id": 12,
-    "titre": "L'invocation avant les salutations",
-    "description": "Avant de terminer la prière, il est fortement recommandé de chercher refuge auprès d'Allah contre 4 choses :",
-    "arabe": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
-    "phonetique": "Allâhumma innî a'ûdhu bika min 'adhâbi jahannama, wa min 'adhâbi l-qabri, wa min fitnati l-mahyâ wa l-mamâti, wa min sharri fitnati l-masîhi d-dajjâl.",
-    "francais": "Ô Allah ! Je cherche refuge auprès de Toi contre le châtiment de l'Enfer, contre le châtiment de la tombe, contre les tentations de la vie et de la mort, et contre le mal de la tentation de l'Antéchrist (Dajjal).",
+    "titre": "12. التشهد الأول (Le premier Tashahhud)",
+    "description": "Après la 2ème Rakah, on s'assoit pour le Tashahhud. Pointer l'index droit et le bouger légèrement en récitant :",
+    "arabe": "التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ. أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "phonetique": "At-tahiyyâtu lillâhi... Ash-hadu an lâ ilâha illâ l-lâhu, wa ash-hadu anna Muhammadan 'abduhu wa rasûluh.",
+    "francais": "Les salutations sont pour Allah... Je témoigne qu'il n'y a de divinité digne d'adoration qu'Allah, et je témoigne que Muhammad est Son serviteur et Son messager.",
     "image": "",
     "lien_externe": ""
   },
   {
     "id": 13,
-    "titre": "Les Salutations finales (At-Taslim)",
+    "titre": "13. الصلاة الإبراهيمية (Dernier Tashahhud)",
+    "description": "Lors de la toute dernière assise de la prière, on ajoute la prière sur le Prophète (Salawat) après le Tashahhud :",
+    "arabe": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "phonetique": "Allâhumma salli 'alâ Muhammadin... Allâhumma bârik 'alâ Muhammadin... innaka Hamîdun Majîd.",
+    "francais": "Ô Allah, prie sur Muhammad et sur la famille de Muhammad... Ô Allah, bénis Muhammad et la famille de Muhammad... Tu es certes Digne de louange et de gloire.",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 14,
+    "titre": "14. الدعاء قبل السلام (L'invocation avant les salutations)",
+    "description": "Avant de terminer, il est fortement recommandé de chercher refuge auprès d'Allah contre 4 choses :",
+    "arabe": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+    "phonetique": "Allâhumma innî a'ûdhu bika min 'adhâbi jahannama, wa min 'adhâbi l-qabri, wa min fitnati l-mahyâ wa l-mamâti, wa min sharri fitnati l-masîhi d-dajjâl.",
+    "francais": "Ô Allah ! Je cherche refuge auprès de Toi contre le châtiment de l'Enfer, contre le châtiment de la tombe, contre les tentations de la vie et de la mort, et contre le mal de l'Antéchrist (Dajjal).",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 15,
+    "titre": "15. التسليم (Les Salutations finales)",
     "description": "Tourner la tête vers la droite jusqu'à ce que la joue soit visible de derrière, puis faire de même vers la gauche, en disant à chaque fois :",
     "arabe": "السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
     "phonetique": "As-salâmu 'alaykum wa rahmatu l-lâh",
@@ -130,9 +150,9 @@
     "lien_externe": ""
   },
   {
-    "id": 14,
-    "titre": "📚 Pour aller plus loin",
-    "description": "Ce résumé regroupe les piliers et obligations. Pour découvrir toutes les Sunnan (actes surérogatoires), les preuves (Dalils), et les explications détaillées, téléchargez le livre complet du Cheikh Al-Albani (رحمه الله).",
+    "id": 16,
+    "titre": "📚 المراجع (Pour aller plus loin)",
+    "description": "Ce résumé regroupe les piliers et obligations. Pour découvrir toutes les Sunnan (actes surérogatoires) et les preuves (Dalils), lisez le livre complet du Cheikh Al-Albani (رحمه الله).",
     "arabe": "",
     "phonetique": "",
     "francais": "",
