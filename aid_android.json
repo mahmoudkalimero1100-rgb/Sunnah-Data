@@ -1,61 +1,41 @@
 [
   {
     "id": 1,
-    "titre": "1. آداب صلاة العيد (Les Bienséances)",
-    "description": "Voici les actes recommandés (Sunnan) avant de se rendre à la prière (idéalement au Musalla, en plein air) :\n• Prendre un bain rituel (الاغتسال).\n• Prononcer le Takbir (التكبير) avant la prière.\n• Manger un nombre impair de dattes avant de sortir pour l'Aïd al-Fitr. Pour Al-Adha, on part à jeun et on mange après la prière.\n• Se parer de ses plus beaux vêtements pour les hommes (الزينة).\n• Changer de chemin : aller par un chemin et revenir par un autre.",
-    "arabe": "",
+    "titre": "1. النية وتكبيرة الإحرام (L'Intention et le 1er Takbir)",
+    "description": "La prière de l'Aïd s'accomplit en 2 Rakaat, à voix haute, sans Adhan ni Iqamah. On commence par l'intention, le Takbir de sacralisation, puis l'invocation d'ouverture.",
+    "arabe": "النية والتكبير: ينوي صلاة العيد ركعتين، ثم يكبر تكبيرة الإحرام، ويستفتح",
     "phonetique": "",
-    "francais": "",
+    "francais": "L'intention et le Takbir : Il a l'intention de prier deux Rakaat de l'Aïd, puis prononce le Takbir d'ouverture (Al-Ihram) et l'invocation d'ouverture.",
     "image": "",
     "lien_externe": ""
   },
   {
     "id": 2,
-    "titre": "2. النية وتكبيرة الإحرام (L'Intention et 1er Takbir)",
-    "description": "La prière compte 2 Rakaat, à voix haute, sans Adhan ni Iqamah. On commence par l'intention dans le cœur, le Takbir de sacralisation, puis l'invocation d'ouverture.",
-    "arabe": "ينوي صلاة العيد ركعتين، ثم يكبر تكبيرة الإحرام، ويستفتح",
+    "titre": "2. الركعة الأولى (La 1ère Rakah)",
+    "description": "L'imam prononce les Takbirs supplémentaires, puis récite le Coran à voix haute.",
+    "arabe": "ثم يكبر ٦ تكبيرات إضافية في الركعة الأولى قبل القراءة.\nالقراءة: يقرأ الفاتحة وسورة (ق) أو سورة (الأعلى) في الأولى.",
     "phonetique": "",
-    "francais": "Il a l'intention de prier deux Rakaat, puis prononce le Takbir d'ouverture (Al-Ihram) et l'invocation d'ouverture.",
+    "francais": "Puis il prononce 6 Takbirs supplémentaires dans la première Rakah avant de lire.\nLa lecture : Il récite la Fatiha et la sourate Qaf ou la sourate Al-A'la dans la première Rakah.",
     "image": "",
     "lien_externe": ""
   },
   {
     "id": 3,
-    "titre": "3. الركعة الأولى (La 1ère Rakah)",
-    "description": "L'imam prononce 6 Takbirs supplémentaires (en plus de celui de l'Ihram). Ensuite, il récite la Fatiha, suivie de la sourate Qaf (n°50) ou Al-A'la (n°87).",
-    "arabe": "يكبر ٦ تكبيرات إضافية في الركعة الأولى قبل القراءة، ويقرأ الفاتحة وسورة (ق) أو سورة (الأعلى)",
+    "titre": "3. الركعة الثانية (La 2ème Rakah)",
+    "description": "En se relevant, l'imam prononce le Takbir de mouvement, puis ajoute les autres Takbirs.",
+    "arabe": "و ٥ تكبيرات في الثانية عند القيام قبل القراءة.\nالقراءة: ويقرأ بسورة (القمر) أو (الغاشية) في الثانية.",
     "phonetique": "",
-    "francais": "Il prononce 6 Takbirs supplémentaires dans la première Rakah avant de lire. Puis il récite la Fatiha et la sourate Qaf ou Al-A'la.",
+    "francais": "Et 5 Takbirs dans la deuxième Rakah lors du redressement avant de lire.\nLa lecture : Et il récite la sourate Al-Qamar ou Al-Ghashiyah dans la deuxième Rakah.",
     "image": "",
     "lien_externe": ""
   },
   {
     "id": 4,
-    "titre": "4. الركعة الثانية (La 2ème Rakah)",
-    "description": "En se relevant, l'imam prononce le Takbir de mouvement. Une fois debout, il ajoute 5 Takbirs supplémentaires et récite la sourate Al-Qamar (n°54) ou Al-Ghashiyah (n°88).",
-    "arabe": "وفي الثانية تكبيرة القيام ثم ٥ تكبيرات، ويقرأ بسورة (اقتربت الساعة) أو (الغاشية)",
+    "titre": "4. الخطبة، الآداب والأحكام (Sermon, Bienséances et Règles)",
+    "description": "Voici les éléments importants concernant le sermon, les actes recommandés avant la prière et les règles juridiques (selon Cheikh Ibn Uthaymin) :",
+    "arabe": "الخطبة: خطبة العيد تكون بعد الصلاة، ويُستحب أن يخص الإمام النساء بجزء منها.\n\nآداب صلاة العيد كما ذكرها ابن عثيمين: صيد الفوائد\nالاغتسال: يغتسل الإنسان لصلاة العيد.\nالتكبير: استحباب التكبير قبل الصلاة.\nالأكل: يأكل تمرات وتراً قبل الخروج في عيد الفطر.\nالزينة: لبس أحسن الثياب للرجال.\nالمخالفة في الطريق: الذهاب من طريق والعودة من آخر.\n\nأحكام هامة:\nحكم التكبيرات: إذا نسي التكبيرات حتى قرأ الفاتحة، يسقط التكبير ولا يأتي به؛ لأنه سنة فات محلها.\nمن فاتته الصلاة: من فاتته صلاة العيد لا يقضيها على الراجح، أو يقضيها ركعتين إن شاء.\nصلاة العيد للنساء: صلاة العيد للنساء جماعة خلف الرجال، ولا يصح اتخاذها جماعة في البيت لتعذر ذلك.",
     "phonetique": "",
-    "francais": "Dans la deuxième, il prononce le Takbir pour se lever, puis 5 Takbirs. Il récite ensuite la sourate Al-Qamar ou Al-Ghashiyah.",
-    "image": "",
-    "lien_externe": ""
-  },
-  {
-    "id": 5,
-    "titre": "5. خطبة العيد والدليل (Le Sermon et la Preuve)",
-    "description": "Après la prière, l'imam prononce un seul sermon (Khutbah). Il est recommandé d'y dédier une partie pour les femmes. Voici la preuve (Dalil) :",
-    "arabe": "وبعد الصلاة يخطب الإمام خطبة يذكر فيها الناس ويعظهم، ويُستحب أن يخص النساء بجزء منها.\nوالدليل: ما روى البخاري ومسلم عن أبي سعيد الخدري -رضي الله عنه- قال: كان النبي ﷺ يخرج يوم الفطر والأضحى إلى المصلى، وأول شيء يبدأ به الصلاة، ثم ينصرف فيقوم مقابل الناس والناس جلوس على صفوفهم، فيعظهم ويأمرهم.",
-    "phonetique": "",
-    "francais": "Après la prière, l'imam prononce un sermon pour exhorter les gens.\nPreuve : Al-Bukhari et Muslim rapportent d'après Abu Sa'id Al-Khudri que le Prophète (ﷺ) sortait vers le lieu de prière. Il commençait par la prière, puis se tenait face aux gens assis dans leurs rangs, et les exhortait.",
-    "image": "",
-    "lien_externe": ""
-  },
-  {
-    "id": 6,
-    "titre": "6. أحكام هامة (Règles importantes)",
-    "description": "Quelques règles très utiles mentionnées par les savants :",
-    "arabe": "١. حكم التكبيرات: إذا نسي التكبيرات حتى قرأ الفاتحة، يسقط التكبير ولا يأتي به لأنه سنة فات محلها.\n٢. من فاتته الصلاة: لا يقضيها على الراجح، أو يقضيها ركعتين إن شاء.\n٣. صلاة العيد للنساء: تُصلى جماعة خلف الرجال، ولا يصح اتخاذها جماعة في البيت لتعذر ذلك.",
-    "phonetique": "",
-    "francais": "1. Oubli des Takbirs : Si on les oublie et qu'on a commencé à lire la Fatiha, ils s'annulent.\n2. Retardataire : S'il rate la prière, il ne la rattrape pas (avis prépondérant), ou prie 2 Rakaat s'il le souhaite.\n3. Femmes : Elles prient en groupe derrière les hommes. Il n'est pas valide pour elles de la prier en groupe à la maison.",
+    "francais": "Le Sermon : Le sermon de l'Aïd a lieu après la prière, et il est recommandé que l'imam consacre une partie aux femmes.\n\nLes bienséances de la prière de l'Aïd selon Ibn Uthaymin :\n• Le bain rituel : Le croyant prend un bain pour la prière de l'Aïd.\n• Le Takbir : Il est recommandé de prononcer le Takbir avant la prière.\n• Manger : Manger un nombre impair de dattes avant de sortir pour l'Aïd al-Fitr.\n• L'embellissement : Porter ses plus beaux vêtements pour les hommes.\n• Changer d'itinéraire : S'y rendre par un chemin et revenir par un autre.\n\nRègles importantes :\n• Statut des Takbirs : S'il oublie les Takbirs jusqu'à ce qu'il lise la Fatiha, le Takbir s'annule et il ne le rattrape pas ; car c'est une Sunnah dont le moment est passé.\n• Celui qui a raté la prière : Il ne la rattrape pas (avis prépondérant), ou la rattrape en deux Rakaat s'il le souhaite.\n• Prière de l'Aïd pour les femmes : Les femmes prient en groupe derrière les hommes, et il n'est pas valide de la faire en groupe à la maison si cela est impossible.",
     "image": "",
     "lien_externe": ""
   }
