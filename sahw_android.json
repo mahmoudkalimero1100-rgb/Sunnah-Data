@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "titre": "1. القاعدة الذهبية (La règle d'or de l'oubli)",
+    "description": "Les prosternations de l'oubli (Sujud as-Sahw) se divisent en 3 cas principaux : l'ajout, la diminution et le doute.",
+    "arabe": "سجود السهو له ثلاث حالات: الزيادة / النقص / الشك.\n⇦ في حالة الزيادة ⇦ اسجد سجدتي السهو بعد التسليم.\n⇦ في حالة النقص ⇦ اسجد سجدتي السهو قبل التسليم.\n⇦ في حالة الشك ⇦ إبن على الأقل واسجد سجدتي السهو قبل التسليم.",
+    "phonetique": "",
+    "francais": "• En cas d'AJOUT : Prosterne-toi deux fois APRÈS le salut final.\n• En cas d'OMISSION (Diminution) : Prosterne-toi deux fois AVANT le salut final.\n• En cas de DOUTE : Base-toi sur le minimum (la certitude) et prosterne-toi AVANT le salut final.",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 2,
+    "titre": "2. تنبيه هام جداً (Attention très importante !)",
+    "description": "Il est crucial de différencier un Pilier (Rukn), une Obligation (Wajib) et une Sunnah pour savoir comment réparer son erreur.",
+    "arabe": "وانتبه!! سجدتي السهو لا تجبران ركن من أركان الصلاة بل تجبر الواجب والسُنة فقط.\nبمعنى لو نسيت ركن.. وجب عليك أن تأتي به أوﻻً وبعدها تسجد سجود السهو في آخر صلاتك.\nولو نسيت واجب أو سُنة اسجد للسهو.",
+    "phonetique": "",
+    "francais": "Les deux prosternations de l'oubli NE COMPENSENT PAS un pilier de la prière, elles ne compensent qu'une obligation ou une Sunnah.\nC'est-à-dire que si tu oublies un Pilier, tu DOIS le refaire physiquement, puis faire les prosternations de l'oubli à la fin.\nMais si tu oublies une Obligation, tu ne reviens pas en arrière, tu compenses juste par les prosternations de l'oubli.",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 3,
+    "titre": "3. أركان الصلاة ١٤ (Les 14 Piliers)",
+    "description": "Si l'un de ces 14 piliers est oublié, la Rakah (l'unité de prière) est annulée et doit être refaite.",
+    "arabe": "أركان الصلاة وهي 14:\n١. القيام مع القدرة\n٢. تكبيرة الإحرام\n٣. قراءة الفاتحة\n٤. الركوع\n٥. الإعتدال بعد الركوع\n٦. السجود على الأعضاء السبعة\n٧. الرفع منه\n٨. الجلسة بين السجدتين\n٩. الطمأنينة في جميع الأفعال\n١٠. الترتيب بين الأركان\n١١. التشهد الأخير\n١٢. الجلوس له\n١٣. الصلاة على النبي ﷺ\n١٤. التسليمتان",
+    "phonetique": "",
+    "francais": "Les 14 Piliers (Arkan) :\n1. Être debout (si on en est capable)\n2. Le Takbir de sacralisation\n3. La récitation de la Fatiha\n4. L'inclinaison (Ruku')\n5. Le redressement après l'inclinaison\n6. La prosternation sur les 7 membres\n7. Le fait de s'en relever\n8. L'assise entre les deux prosternations\n9. La quiétude (Tuma'ninah) dans chaque acte\n10. L'ordre entre les piliers\n11. Le dernier Tashahhud\n12. L'assise pour le dernier Tashahhud\n13. La prière sur le Prophète ﷺ\n14. Les deux salutations finales",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 4,
+    "titre": "4. واجبات الصلاة ٨ (Les 8 Obligations)",
+    "description": "Si l'une de ces 8 obligations est oubliée par erreur, on ne revient pas en arrière pour la faire, on compense directement par le Sujud as-Sahw.",
+    "arabe": "واجبات الصلاة وهي 8:\n١. جميع التكبيرات غير تكبيرة اﻹحرام\n٢. قول: سمع الله لمن حمده (للإمام والمنفرد)\n٣. قول: ربنا ولك الحمد (للكل)\n٤. قول: سبحان ربي العظيم في الركوع\n٥. قول: سبحان ربي الأعلى في السجود\n٦. قول: ربي اغفر لي (بين السجدتين)\n٧. التشهد الأول\n٨. الجلوس له",
+    "phonetique": "",
+    "francais": "Les 8 Obligations (Wajibat) :\n1. Tous les Takbirs (sauf le tout premier qui est un pilier)\n2. Dire \"Sami'a Allahu liman hamidah\" (pour l'Imam et celui qui prie seul)\n3. Dire \"Rabbana wa lakal hamd\" (pour tout le monde)\n4. Dire \"Subhana Rabbiyal 'Azhim\" pendant l'inclinaison\n5. Dire \"Subhana Rabbiyal A'la\" pendant la prosternation\n6. Dire \"Rabbi ghfir li\" entre les deux prosternations\n7. Le premier Tashahhud\n8. L'assise pour le premier Tashahhud",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 5,
+    "titre": "5. أمثلة عملية شائعة (Exemples pratiques - Partie 1)",
+    "description": "Voici des questions fréquentes sur les erreurs dans la prière et leurs solutions :",
+    "arabe": "١) لو نسيت الركوع أو سجدة ماذا أفعل؟\nالركوع والسجود ركن.. أعتبر الركعة التي نسيت فيها ملغية وأبدأ التي بعدها وأعتبرها الركعة الأولى، وأجبر بسجدتين للسهو في آخر الصلاة قبل التسليم.\n٢) لو نسيت قراءة سورة بعد الفاتحة؟\nالسورة سُنة وليست ركناً والراجح أنه ليس لها سجود سهو.\n٣) لو زدت ركعة (مثلاً صليت المغرب ٤ ركعات)؟\nبعد قول التشهد الأخير وبعد تسليمي من الصلاة، أسجد سجدتي السهو وأُسلم مرة أخرى.",
+    "phonetique": "",
+    "francais": "1) J'ai oublié l'inclinaison ou une prosternation ?\nCe sont des piliers. La Rakah où tu as oublié est annulée. Tu la remplaces, tu continues ta prière, et tu fais les prosternations de l'oubli à la fin.\n2) J'ai oublié la sourate après la Fatiha ?\nC'est une Sunnah, l'avis prépondérant est qu'il ne faut pas faire de prosternation de l'oubli pour cela.\n3) J'ai ajouté une Rakah en trop (ex: 4 Rakaat au Maghrib) ?\nTu termines ta prière, tu fais le salut final, PUIS tu fais deux prosternations de l'oubli et tu refais un salut.",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 6,
+    "titre": "6. أمثلة عملية شائعة (Exemples pratiques - Partie 2)",
+    "description": "Suite des cas pratiques concernant le doute et la rapidité dans la prière :",
+    "arabe": "٤) لو صليت المغرب وﻻ أتذكر هل صليته ركعتين أو ٣؟\nنأخذ باﻹحتمال الأقل وهو أنك صليتها ركعتين، ثم تأتي بالركعة الثالثة + سجدتي السهو قبل التسليم.\n\nتنبيهات هامة:\n- الفاتحة ركن، لو قرأتها خطأ صلاتك غير صحيحة.\n- اﻹطمئنان ركن، لو صليت بسرعة صلاتك غير صحيحة!\n- الذي يتعمد زيادة ركن صلاته باطلة.",
+    "phonetique": "",
+    "francais": "4) Je doute si j'ai fait 2 ou 3 Rakaat ?\nBase-toi sur la certitude (le chiffre le plus petit, donc 2). Ajoute la Rakah manquante, puis fais les prosternations de l'oubli AVANT le salut final.\n\nAvertissements importants :\n- La Fatiha est un pilier : si tu la lis mal (changeant le sens), la prière est invalide.\n- La quiétude (Tuma'ninah) est un pilier : si tu pries trop vite, ta prière est invalide !\n- Celui qui ajoute volontairement un pilier, sa prière est annulée.",
+    "image": "",
+    "lien_externe": ""
+  },
+  {
+    "id": 7,
+    "titre": "7. رفع اليدين وتكبيرة الإحرام (Lever les mains et le 1er Takbir)",
+    "description": "Où doit-on lever les mains dans la prière ? Et quelle est la gravité d'oublier le premier Takbir ? Voici la fatwa du Cheikh Ibn Uthaymin :",
+    "arabe": "رفع الأيدي له ٤ مواضع فقط:\n١) أثناء تكبيرة الإحرام.\n٢) وعند اﻹنحناء للركوع.\n٣) وعند الرفع من الركوع.\n٤) بعد التشهد الأوسط (القيام للثالثة).\n\nسُئل الشيخ ابن عثيمين: إذا ترك المصلي تكبيرة الإحرام سهواً؟\nفأجاب: «إذا ترك المصلي تكبيرة الإحرام سهواً أو عمداً، لم تنعقد صلاته أصلاً، ولو صلى كل الركعات».",
+    "phonetique": "",
+    "francais": "On ne lève les mains que dans 4 positions :\n1) Lors du Takbir de sacralisation.\n2) En descendant pour l'inclinaison (Ruku').\n3) En se relevant de l'inclinaison.\n4) En se levant pour la 3ème Rakah (après le 1er Tashahhud).\n\nFatwa du Cheikh Ibn Uthaymin : \"Si le prieur délaisse le Takbir de sacralisation (Allahu Akbar du tout début), que ce soit par oubli ou volontairement, sa prière n'a jamais commencé, même s'il prie toutes les Rakaat.\"",
+    "image": "",
+    "lien_externe": ""
+  }
+]
